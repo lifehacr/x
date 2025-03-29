@@ -153,4 +153,11 @@
   "browser": {
     "crypto": false
   }
+{
+  "engines": {
+    "pnpm": "latest"
+  }
 }
+}
+
+
